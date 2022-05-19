@@ -10,8 +10,8 @@ let usuario1 = new Usuario("Cristian", "Pomodo", [{
     nombre: "Entevista con el vampiro",
     autor: "Ann Rice",
 }, {
-    nombre: "Hary Potter",
-    autor: "J. K. Rowling"
+    nombre: "pepe lasanti",
+    autor: "Julian"
 }], ("Murdock, Bizquit"));
 
 
